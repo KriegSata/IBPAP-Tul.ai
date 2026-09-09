@@ -5,4 +5,3 @@ tulai
 tulai
 tulai
 tula
-t
