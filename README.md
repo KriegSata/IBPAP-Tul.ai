@@ -6,4 +6,3 @@ tulai
 tulai
 tulai
 tulai
-a
