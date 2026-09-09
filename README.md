@@ -5,4 +5,4 @@ tulai
 tulai
 tulai
 tulai
-tul
+tu
