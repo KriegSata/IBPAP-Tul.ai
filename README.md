@@ -4,5 +4,5 @@ tulai men
 tulai
 tulai
 tulai
-tulai
-tu
+tula
+t
